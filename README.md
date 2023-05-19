@@ -20,7 +20,7 @@ Created an interactive power BI dashboard for Madhav Store (E-commerce), and ana
 * background_img.jpg
 
 # Things I did:-
-* Transformed data using Power Query(cleaning,formatting,performing aggregate functions,grouping etc.)
+* Transformed data using Power Query(cleaning,formatting,performing aggregate functions,grouping etc)
 * Performed the ETL operations.
 * Used DAX queries for calculating AOV(Average Order Value).
 * Implemented important KPI's to visually represent and monitor our data. like(sum of amount, sum of quantity, sum of profit & sum of AOV.
